@@ -34,13 +34,3 @@ Because the original org names were taken after the suspension, replacements wer
 | [autyladus](https://github.com/autyladus) | Autiladus |
 
 The Y is just a naming workaround. Brand names are always written normally.
-
----
-
-<div align="center">
-
-<a href="https://discord.gg/B7Bhuherkn">
-  <img src="https://img.shields.io/badge/Egg_Fried_Rice-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Egg Fried Rice Discord"/>
-</a>
-
-</div>
