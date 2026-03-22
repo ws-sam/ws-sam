@@ -1,14 +1,12 @@
 <div align="center">
 
-# Samuel
-
-**[WokSpec](https://github.com/WokSpec)**
+# Hey!
 
 </div>
 
 ## Active Focus
 
-Right now: building out the WokSpec core — platform, API, and [Orinadus](https://github.com/orynadus), a Web3 research and intelligence platform.
+Right now: building out the **[WokSpec](https://github.com/WokSpec)** core — platform, API, and [Orinadus](https://github.com/orynadus), a Web3 research and intelligence platform.
 WokSpec is a small independent ecosystem — AI infrastructure, Web3 research tooling, and community systems. Built in public, designed to last.
 
 ## Side Projects
