@@ -1,4 +1,3 @@
-<div align="center">
 
 ## Samuel @ws-sam
 
