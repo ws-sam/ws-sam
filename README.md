@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## Active Focus
 
 Right now: building out the WokSpec core — platform, API, and [Orinadus](https://github.com/orynadus), a Web3 research and intelligence platform.
