@@ -5,7 +5,7 @@
 
 ## Active Focus
 
-Right now: I’m building **[WokSpec](https://github.com/WokSpec)**, an ecosystem for Web3 and AI development.
+Right now: I’m building **[WokSpec](https://github.com/WokSpec)**, a growing ecosystem for Web3 and AI development.
 
 ## Side Projects
 
