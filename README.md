@@ -5,7 +5,7 @@
 
 ## Active Focus
 
-Right now: I’m building **[WokSpec](https://github.com/WokSpec)**, an ecosystem for Web3 and AI development. It provides core infrastructure and APIs, plus [Orinadus](https://github.com/orynadus) for Web3 research and intelligence, along with tools for builders and communities — built in public, designed to last. 
+Right now: I’m building **[WokSpec](https://github.com/WokSpec)**, an ecosystem for Web3 and AI development.
 
 ## Side Projects
 
