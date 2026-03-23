@@ -10,7 +10,7 @@ Right now: I’m building **[WokSpec](https://github.com/WokSpec)**, a growing e
 
 ### **[Chopsticks](https://github.com/ws-sam/Chopsticks)** 
 
-Production-grade, self-hostable Discord bot. Music, moderation, economy, AI, and a community-powered agent pool system. On hold while WokSpec is being built — self-hosting is probably the best path until a managed instance is back up.
+Production-grade, open source, self-hostable Discord bot. Music, moderation, economy, AI, and a community-powered agent pool system. On hold while WokSpec is being built — self-hosting is probably the best path until a managed instance is back up.
 
 ---
 
