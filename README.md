@@ -1,6 +1,4 @@
-# ws-sam
-
-**[WokSpec](https://github.com/WokSpec)**
+# [ws](https://github.com/WokSpec)-sam
 
 ---
 
