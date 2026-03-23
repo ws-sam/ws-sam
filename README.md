@@ -1,6 +1,6 @@
 # ws-sam
 
-**building [WokSpec](https://github.com/WokSpec)**
+**[WokSpec](https://github.com/WokSpec)**
 
 ---
 
