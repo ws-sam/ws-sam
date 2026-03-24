@@ -1,18 +1,39 @@
-# [ws](https://github.com/WokSpec)-sam
+# ws-sam
 
 ## Spotlight
----
 
-## Building **[WokSpec](https://github.com/WokSpec)**
+### Building [WokSpec](https://github.com/WokSpec)
 
-Right now: I’m building **[WokSpec](https://github.com/WokSpec)**, a growing ecosystem for Web3 and AI development.
+A growing ecosystem for AI and Web3 development.
+
+Focused on:
+- Agent-based systems
+- Open intelligence platforms
+- Developer-first tooling
 
 ---
 
 ## Side Projects
 
-### **[Chopsticks](https://github.com/ws-sam/Chopsticks)** 
+### [Chopsticks](https://github.com/ws-sam/Chopsticks)
 
-Production-grade, open source, self-hostable Discord bot. Music, moderation, economy, AI, and a community-powered agent pool system. On hold while WokSpec is being built — self-hosting is probably the best path until a managed instance is back up.
+Production-grade, open-source, self-hostable Discord bot.
+
+Features:
+- Music
+- Moderation
+- Economy systems
+- AI integrations
+- Community-powered agent pool
+
+> Currently on hold while WokSpec is in active development.  
+> Self-hosting remains the recommended path.
 
 ---
+
+## Direction
+
+Building toward:
+- Scalable agent ecosystems  
+- Open AI-native platforms  
+- Modular, developer-owned systems
