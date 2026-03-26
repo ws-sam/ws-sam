@@ -4,7 +4,7 @@
 
 ### Building [WokSpec](https://github.com/WokSpec)
 
-A growing ecosystem for AI and Web3 development.
+A growing ecosystem for research and development.
 
 Focused on:
 - Agent-based systems
@@ -13,7 +13,18 @@ Focused on:
 
 ---
 
-## Side Projects
+## Current Projects
+
+### [claude-mileage](https://github.com/ws-sam/claude-mileage)
+
+Unofficial local wrapper for Claude CLI focused on efficiency and context discipline.
+
+Built around:
+- tighter context
+- smaller tasks
+- local memory
+- workflow efficiency
+- better mileage through less waste
 
 ### [Chopsticks](https://github.com/ws-sam/Chopsticks)
 
@@ -34,6 +45,6 @@ Features:
 ## Direction
 
 Building toward:
-- Scalable agent ecosystems  
-- Open AI-native platforms  
+- Scalable agent ecosystems
+- Open AI-native platforms
 - Modular, developer-owned systems
