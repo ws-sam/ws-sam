@@ -1,4 +1,4 @@
-# ws-sam
+# Samuel
 
 ## Spotlight
 
